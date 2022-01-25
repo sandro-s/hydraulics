@@ -1,0 +1,5 @@
+name: hydraulics-environment
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
